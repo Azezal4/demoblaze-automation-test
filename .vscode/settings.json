@@ -1,0 +1,9 @@
+{
+    "workbench.sideBar.location": "right",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,   
+    "editor.lineHeight": 20,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000
+}
